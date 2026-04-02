@@ -82,7 +82,7 @@ The objective is to perform data cleaning, exploratory data analysis (EDA), and 
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aniket252005/ibm-house-sales-analysis.git
 
 2. Open Jupyter Notebook:
    jupyter notebook
